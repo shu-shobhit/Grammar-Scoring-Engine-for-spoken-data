@@ -672,3 +672,4 @@ wandb/run-20250408_000652-qmq5q3ug/files/requirements.txt
 wandb/run-20250408_000652-qmq5q3ug/files/wandb-metadata.json
 wandb/run-20250408_000652-qmq5q3ug/logs/debug-internal.log
 wandb/run-20250408_000652-qmq5q3ug/logs/debug.log
+best_model.pt
