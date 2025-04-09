@@ -1,4 +1,3 @@
-# inference.py
 import torch
 import numpy as np
 from model import Wav2Vec2GrammarScoring
